@@ -1,0 +1,85 @@
+#!MANAGED-CONFIG https://sub.con8.tk/sub?ver=4&config=https%3A%2F%2Fraw.githubusercontent.com%2Fskullssr%2Fmerlinclash_clash_related%2Fmaster%2FUser_config_old%2FArea_Urltest_NoEmoji.ini&url=vmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDQiLCJwcyI6InYycmF5IOWPsOa5vijnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDQiLCJwcyI6InYycmF5IOWPsOa5vijogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDMiLCJwcyI6InYycmF5IOaWsOWKoOWdoSjnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDMiLCJwcyI6InYycmF5IOaWsOWKoOWdoSjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDEiLCJwcyI6InYycmF5IOaXpeacrCjnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDEiLCJwcyI6InYycmF5IOaXpeacrCjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDYiLCJwcyI6InYycmF5IOe%2BjuWbvSjnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDYiLCJwcyI6InYycmF5IOe%2BjuWbvSjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDciLCJwcyI6InYycmF5IOmmmea4ryjnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDciLCJwcyI6InYycmF5IOmmmea4ryjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDgiLCJwcyI6InYycmF5IOmmmea4r0hHQyjnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDgiLCJwcyI6InYycmF5IOmmmea4r0hHQyjogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDkiLCJwcyI6InYycmF5IOmmmea4r0hLQk4o56e75YqoKSBbTmV0ZmxpeF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDkiLCJwcyI6InYycmF5IOmmmea4r0hLQk4o6IGU6YCaKSBbTmV0ZmxpeF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjbS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MDUiLCJwcyI6InYycmF5IOmmmea4r0hLVCjnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MTAiLCJwcyI6InYycmF5IOmprOadpeilv%2BS6mijnp7vliqgpIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7Cvmess%3A%2F%2FeyJhZGQiOiJjdS5jaGVhcHYyLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDRlZGE4My0xODIzLTNkMjQtYWE5Ny0yNzMxYmQ0ZjUzZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMjY2MTAiLCJwcyI6InYycmF5IOmprOadpeilv%2BS6mijogZTpgJopIFtOZXRmbGl4XSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ%3D%3D%7C&target=surge&insert=false interval=86400 strict=false
+
+[General]
+loglevel = notify
+bypass-system = true
+skip-proxy = 127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,100.64.0.0/10,localhost,*.local,e.crashlytics.com,captive.apple.com,::ffff:0:0:0:0/1,::ffff:128:0:0:0/1
+#DNS设置或根据自己网络情况进行相应设置
+bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
+dns-server = 119.29.29.29,223.5.5.5
+
+[Script]
+http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+
+[Proxy]
+DIRECT = direct
+🇹🇼 v2ray 台湾(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26604, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇹🇼 v2ray 台湾(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26604, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇸🇬 v2ray 新加坡(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26603, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇸🇬 v2ray 新加坡(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26603, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇯🇵 v2ray 日本(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26601, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇯🇵 v2ray 日本(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26601, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇺🇸 v2ray 美国(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26606, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇺🇸 v2ray 美国(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26606, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26607, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26607, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港HGC(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26608, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港HGC(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26608, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港HKBN(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26609, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇭🇰 v2ray 香港HKBN(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26609, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇭🇰 v2ray 香港HKT(移动) [Netflix] = vmess, cm.cheapv2.xyz, 26605, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cm.cheapv2.xyz, ws-headers=Host:cm.cheapv2.xyz
+🇲🇾 v2ray 马来西亚(移动) [Netflix] = vmess, cu.cheapv2.xyz, 26610, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+🇲🇾 v2ray 马来西亚(联通) [Netflix] = vmess, cu.cheapv2.xyz, 26610, username=cd4eda83-1823-3d24-aa97-2731bd4f53e7, tls=false, ws=true, ws-path=/, sni=cu.cheapv2.xyz, ws-headers=Host:cu.cheapv2.xyz
+韩国节点 = direct
+
+[Proxy Group]
+节点选择 = select,自动选择,手动切换,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,DIRECT
+自动选择 = url-test,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300,tolerance=100
+手动切换 = select,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],🇲🇾 v2ray 马来西亚(移动) [Netflix],🇲🇾 v2ray 马来西亚(联通) [Netflix]
+YouTube = select,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换,DIRECT
+NETFLIX = select,狮城节点,香港节点,台湾节点,日本节点,美国节点,韩国节点,节点选择,DIRECT
+巴哈姆特 = select,台湾节点,手动切换,DIRECT
+哔哩哔哩 = select,DIRECT,台湾节点,香港节点,手动切换
+日韩媒体 = select,日本节点,韩国节点,手动切换,DIRECT
+港台媒体 = select,香港节点,台湾节点,手动切换,DIRECT
+Emby公益服 = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+TikTok = select,节点选择,日本节点,香港节点,台湾节点,美国节点,狮城节点,韩国节点,自动选择,手动切换,DIRECT
+苹果服务 = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+微软服务 = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+聊天软件 = select,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换,DIRECT
+BT&PT = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+国外网站 = select,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换,DIRECT
+国内网站 = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+游戏平台 = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+漏网之鱼 = select,DIRECT,节点选择,自动选择,香港节点,台湾节点,日本节点,美国节点,狮城节点,韩国节点,手动切换
+全球拦截 = select,REJECT,DIRECT
+香港节点 = url-test,🇭🇰 v2ray 香港(移动) [Netflix],🇭🇰 v2ray 香港(联通) [Netflix],🇭🇰 v2ray 香港HGC(移动) [Netflix],🇭🇰 v2ray 香港HGC(联通) [Netflix],🇭🇰 v2ray 香港HKBN(移动) [Netflix],🇭🇰 v2ray 香港HKBN(联通) [Netflix],🇭🇰 v2ray 香港HKT(移动) [Netflix],url=http://www.gstatic.com/generate_204,interval=300,tolerance=50
+台湾节点 = url-test,🇹🇼 v2ray 台湾(移动) [Netflix],🇹🇼 v2ray 台湾(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300,tolerance=100
+日本节点 = url-test,🇯🇵 v2ray 日本(移动) [Netflix],🇯🇵 v2ray 日本(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300,tolerance=100
+美国节点 = url-test,🇺🇸 v2ray 美国(移动) [Netflix],🇺🇸 v2ray 美国(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300,tolerance=100
+狮城节点 = url-test,🇸🇬 v2ray 新加坡(移动) [Netflix],🇸🇬 v2ray 新加坡(联通) [Netflix],url=http://www.gstatic.com/generate_204,interval=300,tolerance=100
+
+[Rule]
+RULE-SET,https://raw.githubusercontents.com/skullssr/merlinclash_clash_related/master/Rules/User/Direct.list,国内网站
+RULE-SET,https://raw.githubusercontents.com/skullssr/merlinclash_clash_related/master/Rules/User/GuowaiCust.list,国外网站
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/LocalAreaNetwork.list,国内网站
+RULE-SET,https://raw.githubusercontents.com/skullssr/merlinclash_clash_related/master/Rules/User/Emby.list,Emby公益服
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/QuanQiuLanJie.list,全球拦截
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/YingYongLanJie.list,全球拦截
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/YouXiPingTai.list,游戏平台
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/WeiRuanFuWu.list,微软服务
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/PingGuoFuWu.list,苹果服务
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/LiaoTianRuanJian.list,聊天软件
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/BaHaMuTe.list,巴哈姆特
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/YOUTUBE.list,YouTube
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/NETFLIX.list,NETFLIX
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/TikTok.list,TikTok
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/RiHanMeiTi.list,日韩媒体
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/GangTaiMeiTI.list,港台媒体
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/BilibiliHMT.list,哔哩哔哩
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/PrivateTracker.list,BT&PT
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/GuoWaiMeiTi.list,国外网站
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/GuoWaiWangZhan.list,国外网站
+RULE-SET,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ZHANG/GuoNeiWangZhan.list,国内网站
+GEOIP,CN,国内网站
+FINAL,漏网之鱼
